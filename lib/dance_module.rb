@@ -8,4 +8,5 @@ module Dance
   end 
   
   def 
+     "I'm doing a pirouette"
 end 
